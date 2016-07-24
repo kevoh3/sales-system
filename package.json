@@ -1,0 +1,15 @@
+{
+  "name": "sales-system",
+  "version": "0.0.1",
+  "author": "Sergio Pomárico <sergiodavid21@gmail.com>",
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "bootstrap-sass": "^3.0.0"
+  }
+}
